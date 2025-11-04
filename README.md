@@ -5,10 +5,7 @@ Current version supports all games.
 
 ## Contribute
 
-:bug: :bulb: Please [open an issue](https://github.com/richi3f/pokemon-team-planner/issues/new/choose)
-to report a bug or leave feedback.
-
-:slightly_smiling_face: If you like this project, please consider making a
-[![donation](https://img.shields.io/badge/donation%20via-PayPal-blue.svg)](https://www.paypal.com/donate/?hosted_button_id=33DEFPRGZM57Y&lc=US).
+:slightly_smiling_face: If you like this project, consider making a
+[donation](https://www.paypal.com/donate/?hosted_button_id=33DEFPRGZM57Y&lc=US) to the original author of the tool.
 
 Pokémon is &copy; of Nintendo, 1995-2025.
